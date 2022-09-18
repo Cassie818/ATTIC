@@ -22,3 +22,6 @@ python ATTIC.py -i "Example/input.fasta" -s 'H.sapiens' -o Example -t 0.5
 ## Cite
 
 Please cite our paper if you use this code in your own work.
+
+## Note
+The length of the input sequence should be greater than 51.
