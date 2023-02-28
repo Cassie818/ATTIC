@@ -4,7 +4,7 @@
 
 ATTIC is a novel stacked-ensemble learning model to identify A-to-I editing sites in three species accurately. We first comprehensively evaluated 37 RNA sequence-derived features combined with 14 popular machine learning algorithms. Then we selected the optimal base models to build a series of stacked ensemble models. The final ATTIC framework was developed upon the optimal models improved by feature selection strategy for specific species. Extensive cross-validation and independent tests demonstrate that ATTIC outperforms state-of-the-art tools for predicting A-to-I editing sites.
 
-![](/Users/cassie/Desktop/Submit_new/Figures/Figure 1.png)
+![](https://github.com/Cassie818/ATTIC/tree/main/Example/Figure 1.png)
 
 ## Setting the environment
 
